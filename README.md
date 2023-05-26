@@ -1,4 +1,4 @@
-# Practica de React ejercicio 1
+# Practica de React ejercicio 2
 
 ¡Bienvenido(a) al proyecto de trabajo en React! En este documento encontrarás información importante sobre cómo configurar, ejecutar y contribuir a este proyecto.
 
